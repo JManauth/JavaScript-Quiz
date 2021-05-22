@@ -1,0 +1,18 @@
+header{
+    background-color: blueviolet;
+    height: 100px;
+    width: 100%;
+    text-align: center;
+    font-size: 70px;
+    color: white;
+}
+#main{
+    border: 1px solid red;
+    height: 500px;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    position: absolute;
+    top: 25%;
+    left: 25%;
+}
